@@ -31,12 +31,6 @@ client.initialize();
 
 const userInfo = {};
 
-    // 15407265280
-    // 13476321824 /pedro
-    // 353864117131 /matteo
-    // 13147202107 /iamai
-    // 17046725758 /leo
-
 const allowedUsers = new Set(["13147202107"]);
 
 const greetings = `🙋‍♂ Hello there! I'm Adrian, your digital companion specialized in guiding you through love, education, and sexual exploration! 🌹📚💋 Now, let's make our chat more personalized.
